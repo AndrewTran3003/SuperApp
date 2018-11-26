@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "423087445370",
+    "firebase_url": "https://composed-hangar-219019.firebaseio.com",
+    "project_id": "composed-hangar-219019",
+    "storage_bucket": "composed-hangar-219019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423087445370:android:65b2f33065b5ac3b",
+        "android_client_info": {
+          "package_name": "com.example.andrewtran.superapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423087445370-cu8n4r716los0a4l5cngpcm4nobgeuio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andrewtran.superapp",
+            "certificate_hash": "b49047ba2c719b238341c04064f71dba49c654df"
+          }
+        },
+        {
+          "client_id": "423087445370-464v6f78vj8krpkbepid6t0us2fng5f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHX4oAlOs1_6liVkmg6DsdR5r6A5Kjsrg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423087445370-464v6f78vj8krpkbepid6t0us2fng5f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

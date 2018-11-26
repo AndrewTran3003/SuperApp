@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SuperApp</string>
+    <string name="title_map">Map</string>
+    <string name="title_message">Message</string>
+
+    <string name="choose">Choose your state</string>
+    <string name="option">Or add your own location</string>
+    <string name="name">Location Name</string>
+    <string name="lat">Latitude</string>
+    <string name="longi">Longitude</string>
+    <string name="zone">Time Zone</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map__find_ways">Map</string>
+    <string name="title_activity_message_chatroom">Chat Room</string>
+    <string name="findplace">Find Places (bar, restaurant,...)</string>
+    <string name="findway">Find your way</string>
+    <string name="googlemap">Google Map</string>
+</resources>
